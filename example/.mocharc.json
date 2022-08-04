@@ -1,0 +1,19 @@
+{
+  "spec":"test.js",
+  "reporter": "node_modules/mocha-reports",
+  "reporterOption":["reportDir=testResult",
+  "cdn=true",
+  "reportFilename=[status]_[datetime]-[name]-report",
+  "slackReport=true,hook_url=AddWebhookUrl",
+  "Environment=Production",
+  "emailReport=true",
+  "emailService=gmail",
+  "emailHost=smtp.gmail.com",
+  "authMail=replaceyourmail@gmail.com",
+  "authPassword=relaceyourmailPassword",
+  "toMailAdress=replaceToMail@gmail.com/replaceToMail1@gmail.com/replaceToMail2@gmail.com",
+  "mailSubject=Automation Test Report",
+  "mailAttachFullReport=true"
+]
+  
+}
