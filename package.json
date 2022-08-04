@@ -12,7 +12,11 @@
     "email"
   ],
   "author": "Pratheep Kanati <pratheepkanati@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pratheepchowdhary/mocha-reports"
+  },
   "dependencies": {
     "ejs": "^3.1.8",
     "mocha-reports": "^1.1.0",
