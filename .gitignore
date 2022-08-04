@@ -1,3 +1,8 @@
 node_modules/
 *.local
 testResult/
+example/*.html
+*.html
+*.html
+example/emailTestReport.html
+*.html

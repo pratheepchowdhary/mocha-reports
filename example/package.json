@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha --config .mocharc.json"
+    "test": "mocha --config .mocharc.json.local"
   },
   "keywords": [],
   "author": "",
