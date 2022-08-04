@@ -1,6 +1,6 @@
 # mocha-reports
 
-[![npm](https://img.shields.io/npm/v/mocha-reports.svg?style=flat-square)](http://www.npmjs.com/package/mocha-reports) [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg?style=flat-square)](https://gitter.im/mocha-reports/general)
+[![npm](https://img.shields.io/npm/v/mocha-reports.svg?style=flat-square)](http://www.npmjs.com/package/mocha-reports) [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg?style=flat-square)](https://gitter.im/mocha-reports/community)
 
 Mocha Reporter for generating Html Report , Slack webhook and Email Report .
 mocha-reports extended functionality  of  [mochawesome](https://github.com/adamgruber/mochawesome) to support slack and email report
