@@ -1,6 +1,6 @@
 {
   "spec":"test.js",
-  "reporter": "node_modules/mocha-reports",
+  "reporter": "mocha-reports",
   "reporterOption":["reportDir=testResult",
   "cdn=true",
   "reportFilename=[status]_[datetime]-[name]-report",

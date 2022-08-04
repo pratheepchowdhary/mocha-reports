@@ -1,0 +1,5 @@
+node_modules
+*.local
+testResult
+example/node_modules
+example/.mocharc.json.local

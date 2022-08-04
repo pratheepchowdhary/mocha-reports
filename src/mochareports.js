@@ -19,7 +19,7 @@ var nodemailer = require('nodemailer');
 var smtpTransport = require('nodemailer-smtp-transport');
 
 
-const emailTemplate = ejs.compile(fs.readFileSync(`${__dirname}/src/automationReport.ejs`, 'utf8'));
+const emailTemplate = ejs.compile(fs.readFileSync(`${__dirname}/automationReport.ejs`, 'utf8'));
 
 // Import the utility functions
 const { log, mapSuites } = utils;
