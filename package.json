@@ -1,6 +1,6 @@
 {
   "name": "mocha-reports",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Mocha Reporter for generating for Html Report , Slack webhooks and Email Report",
   "main": "src/mochareports.js",
   "keywords": [
